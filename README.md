@@ -1,6 +1,8 @@
 # GMD-FinalProject
 Project developed by Joel Farré and David Morea
 
+Due to size problems while uploading it the game is available to download here: https://drive.google.com/file/d/1hEW9jMy_XbxxiUBXkOv563YRWIRf0Dyn/view?usp=sharing
+
 Link to the video demo in YouTube: https://youtu.be/S9nbHn8Umgk
 
 Link to the used assets during the project: 
